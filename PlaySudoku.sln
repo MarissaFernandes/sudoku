@@ -1,0 +1,48 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.Domain", "Sudoku.Domain\Sudoku.Domain.csproj", "{08795D9B-BF41-4244-A765-E8E44E6E8A68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.Application", "Sudoku.Application\Sudoku.Application.csproj", "{CC687BC5-075F-4E6E-956E-3FB244427EA7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{2C650837-A284-401E-89F9-7F2793862941}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{F73507D3-D131-4844-8D2F-68DE535802FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.Data", "Infrastructure\Sudoku.Data\Sudoku.Data.csproj", "{F9F7EEED-3CA4-462F-9298-55B45F329346}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.Game", "Presentation\Sudoku.Game\Sudoku.Game.csproj", "{99C1B950-8124-4CD6-B2D8-7AFE67F99A7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08795D9B-BF41-4244-A765-E8E44E6E8A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08795D9B-BF41-4244-A765-E8E44E6E8A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08795D9B-BF41-4244-A765-E8E44E6E8A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08795D9B-BF41-4244-A765-E8E44E6E8A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC687BC5-075F-4E6E-956E-3FB244427EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC687BC5-075F-4E6E-956E-3FB244427EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC687BC5-075F-4E6E-956E-3FB244427EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC687BC5-075F-4E6E-956E-3FB244427EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9F7EEED-3CA4-462F-9298-55B45F329346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9F7EEED-3CA4-462F-9298-55B45F329346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9F7EEED-3CA4-462F-9298-55B45F329346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9F7EEED-3CA4-462F-9298-55B45F329346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99C1B950-8124-4CD6-B2D8-7AFE67F99A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C1B950-8124-4CD6-B2D8-7AFE67F99A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C1B950-8124-4CD6-B2D8-7AFE67F99A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C1B950-8124-4CD6-B2D8-7AFE67F99A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{99C1B950-8124-4CD6-B2D8-7AFE67F99A7C} = {F73507D3-D131-4844-8D2F-68DE535802FD}
+		{F9F7EEED-3CA4-462F-9298-55B45F329346} = {2C650837-A284-401E-89F9-7F2793862941}
+	EndGlobalSection
+EndGlobal

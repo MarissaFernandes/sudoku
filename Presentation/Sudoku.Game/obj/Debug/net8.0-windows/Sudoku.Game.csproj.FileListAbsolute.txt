@@ -1,0 +1,15 @@
+f:\Marissa\projects\sudoku\Presentation\Sudoku.Game\bin\Debug\net8.0-windows\Sudoku.Game.exe
+f:\Marissa\projects\sudoku\Presentation\Sudoku.Game\bin\Debug\net8.0-windows\Sudoku.Game.deps.json
+f:\Marissa\projects\sudoku\Presentation\Sudoku.Game\bin\Debug\net8.0-windows\Sudoku.Game.runtimeconfig.json
+f:\Marissa\projects\sudoku\Presentation\Sudoku.Game\bin\Debug\net8.0-windows\Sudoku.Game.dll
+f:\Marissa\projects\sudoku\Presentation\Sudoku.Game\bin\Debug\net8.0-windows\Sudoku.Game.pdb
+f:\Marissa\projects\sudoku\Presentation\Sudoku.Game\obj\Debug\net8.0-windows\Sudoku.Game.GeneratedMSBuildEditorConfig.editorconfig
+f:\Marissa\projects\sudoku\Presentation\Sudoku.Game\obj\Debug\net8.0-windows\Sudoku.Game.AssemblyInfoInputs.cache
+f:\Marissa\projects\sudoku\Presentation\Sudoku.Game\obj\Debug\net8.0-windows\Sudoku.Game.AssemblyInfo.cs
+f:\Marissa\projects\sudoku\Presentation\Sudoku.Game\obj\Debug\net8.0-windows\Sudoku.Game.csproj.CoreCompileInputs.cache
+f:\Marissa\projects\sudoku\Presentation\Sudoku.Game\obj\Debug\net8.0-windows\Sudoku.Game.sourcelink.json
+f:\Marissa\projects\sudoku\Presentation\Sudoku.Game\obj\Debug\net8.0-windows\Sudoku.Game.dll
+f:\Marissa\projects\sudoku\Presentation\Sudoku.Game\obj\Debug\net8.0-windows\refint\Sudoku.Game.dll
+f:\Marissa\projects\sudoku\Presentation\Sudoku.Game\obj\Debug\net8.0-windows\Sudoku.Game.pdb
+f:\Marissa\projects\sudoku\Presentation\Sudoku.Game\obj\Debug\net8.0-windows\Sudoku.Game.genruntimeconfig.cache
+f:\Marissa\projects\sudoku\Presentation\Sudoku.Game\obj\Debug\net8.0-windows\ref\Sudoku.Game.dll
